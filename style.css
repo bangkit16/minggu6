@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table td {
+    padding: 5px;
+    background-color: rgb(224, 247, 255);
+    align-items: center;
+    text-align: center;
+}
+.head td{
+    border-bottom: 2px  solid rgba(0, 0, 0, 0.271);
+    background-color: rgb(170, 255, 255)!important;
+}
